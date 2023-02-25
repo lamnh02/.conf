@@ -1,0 +1,11 @@
+set mouse=a
+set number
+set cursorline
+set encoding=UTF-8
+set autoindent
+set tabstop=2
+set hlsearch  
+syntax enable
+set laststatus=2
+set title
+set confirm
